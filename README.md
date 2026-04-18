@@ -2,7 +2,7 @@
 [![GitHub Actions](https://github.com/fusionlanguage/fut/actions/workflows/test.yml/badge.svg)](https://github.com/fusionlanguage/fut/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/fusionlanguage/fut/branch/master/graph/badge.svg?token=M7UX4WJKI3)](https://codecov.io/gh/fusionlanguage/fut)
 
-Fusion Programming Language
+Fusion Programming Language.
 ===========================
 
 Fusion is a programming language designed for implementing reusable components
